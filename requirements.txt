@@ -1,0 +1,10 @@
+fastapi
+uvicorn
+pandas
+scikit-learn
+chromadb
+langgraph
+requests
+pytest
+httpx
+# optional LLM: anthropic
